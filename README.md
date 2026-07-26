@@ -1,5 +1,13 @@
-# Bulk-Shipment-Tender-Management-System
+<p align="center">
+  <img src="./images/banner.png" alt="Bulk Shipment Tender Management System Banner" width="100%">
+</p>
 
+----
+# 🚢 Bulk Shipment Tender Management System
+
+
+
+ 
 The Bulk Shipment Tender Management System is a full-stack web application developed during my internship to digitize and streamline supplier tender and bulk cargo shipment operations.
 
 The system centralizes supplier management, tender tracking, cargo details, vessel information, payment terms, and inspection records into a single platform, reducing manual work and improving operational efficiency.
